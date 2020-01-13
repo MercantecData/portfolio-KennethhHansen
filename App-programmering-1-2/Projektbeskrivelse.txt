@@ -1,0 +1,12 @@
+App'en er en workordre app. 
+
+Vil fokusere på at udvikle app'en til android, via visuel studio /xamerin, dette værktøj kan også udvikle til ios. Så når produktet er langt nok i processen, så kan man kigge på at implementere det til begge platforme. 
+Punkt 1: Brugerne skal have mulighed for at fejlmelde fejl til den tekniske afdeling.
+Punkt 2: Der skal være mulighed for nogle menuer til at vælge hvilke område fysisk fejl er opstået, men også mulighed for at fejlmelde hvilke tekniske område fejlen er. 
+Punkt 3: Det skal være muligt for 1 level supporter at lave en fejlmeldelse, som indikere en mere "seriøs" fejlbeskrivelse.
+Punkt 4: 1 level supporteren skal kunne kigge på bruger fejl, lave den, skrive hvad problemet var, og lukke sagen. 
+Punkt 5: Hvis det ikke er muligt for 1 level supporteren at løse fejlen, så skal der sættes et mærke at sagen skal videre.
+Punkt 6: Der skal være et værkstedsleder modul. 1 hvor man kan se alle uløste sager, og 1 hvor man kan se sager for forskellige afdelinger.
+Punkt 7: Værkstederlederne skal kunne smide sager i forskellige afdelinger.
+
+Vil have enkelte knapper, Text input, Interfacet vil være simpelt og grafisk konservativt. Da der er vigtigt app'en er nem at bruge for ældre brugere til fejlmeldinger og skal være overskueligt for teknikere finde og forstå fejlen, hurtigst muligt.
