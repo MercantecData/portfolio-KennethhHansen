@@ -15,6 +15,13 @@ namespace Blankapp
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
+            EditText TextFelt = FindViewById<EditText>(Resource.Id.TextFelt);
+            TextView textStatus = FindViewById<TextView>(Resource.Id.textStatus);
+            Button SaveButton = FindViewById<Button>(Resource.Id.SaveButton);
+            SaveButton.Click += (sender, e) =>
+            {
+                textStatus.Text = "test";
+            };
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
