@@ -3,6 +3,16 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Blankapp.dll" comes first in this list. */
 		"Blankapp.dll",
+		"BouncyCastle.Crypto.dll",
+		"Google.Protobuf.dll",
+		"MySql.Data.dll",
+		"Renci.SshNet.dll",
+		"SshNet.Security.Cryptography.dll",
+		"System.Configuration.ConfigurationManager.dll",
+		"System.Security.AccessControl.dll",
+		"System.Security.Permissions.dll",
+		"System.Security.Principal.Windows.dll",
+		"Ubiety.Dns.Core.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

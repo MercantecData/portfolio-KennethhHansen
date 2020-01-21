@@ -7,10 +7,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/linearLayout1">
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/editText1" />
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -25,4 +21,24 @@
             android:layout_height="wrap_content"
             android:id="@+id/textView1" />
     </RelativeLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextFelt"
+        android:inputType="text" />
+    <Button
+        android:text="Save"
+        android:layout_width="88.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/SaveButton" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/department" />
+        androis:prompt="@string/department"
+    <TextView
+        android:text="Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textStatus" />
 </LinearLayout>
