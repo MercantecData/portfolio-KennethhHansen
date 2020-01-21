@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Kurser\\App Programmering 1 og 2\\portfolio-KennethhHansen\\App-programmering-1-2\\Blankapp\\Blankapp\\Blankapp.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Kurser\\App Programmering 1 og 2\\portfolio-KennethhHansen\\Blankapp\\Blankapp\\Blankapp.csproj",
       "projectName": "Blankapp",
-      "projectPath": "D:\\OneDrive\\Kurser\\App Programmering 1 og 2\\portfolio-KennethhHansen\\App-programmering-1-2\\Blankapp\\Blankapp\\Blankapp.csproj",
+      "projectPath": "D:\\OneDrive\\Kurser\\App Programmering 1 og 2\\portfolio-KennethhHansen\\Blankapp\\Blankapp\\Blankapp.csproj",
       "packagesPath": "C:\\Users\\Kdog\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Kurser\\App Programmering 1 og 2\\portfolio-KennethhHansen\\App-programmering-1-2\\Blankapp\\Blankapp\\obj\\",
+      "outputPath": "D:\\OneDrive\\Kurser\\App Programmering 1 og 2\\portfolio-KennethhHansen\\Blankapp\\Blankapp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
