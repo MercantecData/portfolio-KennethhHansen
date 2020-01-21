@@ -11,6 +11,7 @@ external-cache-path;D:\OneDrive\Kurser\App Programmering 1 og 2\portfolio-Kennet
 external-path;D:\OneDrive\Kurser\App Programmering 1 og 2\portfolio-KennethhHansen\Blankapp\Blankapp\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+item;obj\Debug\90\res\values\strings.xml
 item;obj\Debug\90\res\values\styles.xml
 LinearLayout;obj\Debug\90\res\layout\activity_main.xml
 paths;D:\OneDrive\Kurser\App Programmering 1 og 2\portfolio-KennethhHansen\Blankapp\Blankapp\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -19,6 +20,8 @@ resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\ic_launcher_background.xml
 resources;obj\Debug\90\res\values\strings.xml
 resources;obj\Debug\90\res\values\styles.xml
+Spinner;obj\Debug\90\res\layout\activity_main.xml
 string;obj\Debug\90\res\values\strings.xml
+string-array;obj\Debug\90\res\values\strings.xml
 style;obj\Debug\90\res\values\styles.xml
 TextView;obj\Debug\90\res\layout\activity_main.xml

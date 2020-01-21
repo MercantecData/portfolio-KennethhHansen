@@ -1,1 +1,1 @@
-<resources><string name="app_name">Blankapp</string><string name="action_settings">Settings</string></resources>
+<resources><string name="app_name">Blankapp</string><string name="action_settings">Settings</string><string name="department">Vælg afdeling i Logistik søjlen</string><string-array name="department_array"><item>Data</item><item>COM</item><item>GSE</item><item>EVK</item><item>LSO</item><item>Ledelsen</item></string-array></resources>
